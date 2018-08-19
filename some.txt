@@ -1,3 +1,0 @@
-from documentclass branch
-
-modified in doc008
