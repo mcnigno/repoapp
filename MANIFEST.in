@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include parking *.css
+recursive-include parking *.csv
+recursive-include parking *.html
+recursive-include parking *.ico
+recursive-include parking *.js
+recursive-include parking *.json
+recursive-include parking *.md
+recursive-include parking *.png
+recursive-include parking *.py
+recursive-include parking *.svg
+recursive-include parking *.txt
+recursive-exclude parking *.pyc
