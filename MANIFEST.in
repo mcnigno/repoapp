@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gea_edms *.css
+recursive-include gea_edms *.csv
+recursive-include gea_edms *.html
+recursive-include gea_edms *.ico
+recursive-include gea_edms *.js
+recursive-include gea_edms *.json
+recursive-include gea_edms *.md
+recursive-include gea_edms *.png
+recursive-include gea_edms *.py
+recursive-include gea_edms *.svg
+recursive-include gea_edms *.txt
+recursive-exclude gea_edms *.pyc
